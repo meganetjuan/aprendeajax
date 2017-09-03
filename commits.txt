@@ -1,0 +1,17 @@
+commit 6d8070da5c667914bfb5d95f4682751610754282
+Author: Juan <meganet.juan@gmail.com>
+Date:   Sat Sep 2 20:52:39 2017 +0200
+
+    Se ha cambiado el tamaño de 'Nombre'
+
+commit 94deeaec8b54faeb16c48d6b29020b3e338837f5
+Author: Juan <meganet.juan@gmail.com>
+Date:   Sat Sep 2 20:48:56 2017 +0200
+
+    Cambiamos el título de la web
+
+commit 8c90ea1f9a388da4994742aa9ed830cb7e816348
+Author: Juan <meganet.juan@gmail.com>
+Date:   Sat Sep 2 20:44:31 2017 +0200
+
+    Inicio
